@@ -3,7 +3,7 @@ with open("README.md","r") as fh:
     long_description=fh.read()
 setup(
     name='TOPSIS-ShivamPundir-101803158',
-    version='0.0.1',
+    version='0.0.2',
     description='TOPSIS Implementation',
     py_modules=["TOPSIS"],
     package_dir={'':'src'},
